@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {}
+
+header {
+    width: 100% float: left;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 50%;
+    background-color: aqua;
+    height: 100px;
+    float: left;
+}
+
+.menu {
+    width: 50%;
+    background-color: red;
+    height: 100px;
+    float: left;
+}
+
+.about {
+    width: 100%;
+    float: left;
+}
+
+.about-one {}
+
+.about-two {}
+
+.gallary {
+    width: 100%;
+    float: left;
+}
+
+.gallary-one {
+    background-color: blueviolet;
+    height: 100px;
+    float: left;
+    width: 33.33%;
+}
+
+.gallary-two {
+    background-color: orange;
+    height: 100px;
+    float: left;
+    width: 33.33%;
+}
+
+.gallary-three {
+    background-color: palevioletred;
+    height: 100px;
+    float: left;
+    width: 33.33%;
+}
